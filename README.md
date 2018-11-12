@@ -21,7 +21,7 @@ The easiest way to manage the installation is via webdriver-manager. This will i
 For specific framework versions run `webdriver-manager --help` or refer to Dockerfile.
 
 `$ npm install -g webdriver-manager`
-`$ webdriver-manager update ---versions.chrome 2.43 --versions.standalone 3.141.5 --gecko false`
+`$ webdriver-manager update ---versions.chrome 2.43 --versions.standalone 3.14.0 --gecko false`
 
 If insure of the installation directory determine it by running:
 
