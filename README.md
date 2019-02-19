@@ -60,7 +60,7 @@ In order to run tests against multiple browser versions on various platforms ref
 
 ## Testing in loops
 
-Extend this handy snippet. 
+Extend this handy snippet found here https://gist.github.com/eddyerburgh/f5e1878a346e8ccfbba0bea6678d25b0. 
 
 ```
 // Example data
